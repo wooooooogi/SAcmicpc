@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
-
+#   Coded by Sungwook Kim
+#   2019-07-29
+#   IDE: Spyder 3
 '''
 문제
 조규현과 백승환은 터렛에 근무하는 직원이다.
